@@ -1,12 +1,12 @@
 ### Hello, I am Alaref Abushaala
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Alaref?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAlarefAbushaala&screen_name=AbushaalaAlaref)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AbushaalaAlaref?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F@AlarefAbushaala&screen_name=AbushaalaAlaref)
 
 ## I'm a Developer, Software Engineer Student.
 
-- 🌱 I’m currently learning Python
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ I love writing and do sports.
+- I’m currently learning Python
+- 2021 Goals: Contribute more to Open Source projects
+- I love writing and do sports.
 
 ### Connect with me:
 
