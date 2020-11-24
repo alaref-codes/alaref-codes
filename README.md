@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbushaalaAlaref?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F@AlarefAbushaala&screen_name=AbushaalaAlaref)
 
-## I'm a Developer, Software Engineer Student.
+## I'm a Python Developer, Software Engineer Student from Libya.
 
 - I’m currently learning Python
 - 2021 Goals: Contribute more to Open Source projects
