@@ -1,11 +1,6 @@
 ### Hello, I am Alaref Abushaala
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AbushaalaAlaref?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F@AlarefAbushaala&screen_name=AbushaalaAlaref)
-
 ## I'm a Python Developer, Software Engineer Student from Libya.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - I’m currently learning Python
 - 2021 Goals: Contribute more to Open Source projects
