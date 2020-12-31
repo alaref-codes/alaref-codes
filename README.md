@@ -4,9 +4,11 @@
 
 ## I'm a Python Developer, Software Engineer Student from Libya.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - I’m currently learning Python
 - 2021 Goals: Contribute more to Open Source projects
-- I love writing and do sports.
 
 ### Connect with me:
 
