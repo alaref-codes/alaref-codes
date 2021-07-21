@@ -1,4 +1,4 @@
-### Hello, I am Alaref Abushaala
+### Hello, my name is Alaref Abushaala
 
 ## I'm a Web Developer, Software Engineering Student from Libya.
 
