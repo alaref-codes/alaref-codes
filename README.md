@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer, Software Engineering Student from Libya.
 
-- I’m currently learning Node.js & Express.js
+- I’m currently learning Goalng & Mysql
 ### Connect with me:
 
 [<img align="left" alt="Alaref | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
