@@ -5,9 +5,8 @@
 - I’m currently learning Goalng & Mysql
 ### Connect with me:
 
-[<img align="left" alt="Alaref | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alaref | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alaref | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+alarefabushaala@gmail.com
 
 <br />
 
@@ -40,4 +39,3 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/alaref-abushaala/
-alarefabushaala@gmail.com
