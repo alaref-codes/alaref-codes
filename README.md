@@ -39,7 +39,5 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/AbushaalaAlaref
 [linkedin]: https://linkedin.com/in/alaref-abushaala/
-[facebook]: https://www.facebook.com/aref.abdo.49
-
+alarefabushaala@gmail.com
