@@ -2,7 +2,6 @@
 
 ## I'm a Web Developer, Software Engineering Student from Libya.
 
-- I’m currently learning Azure Cloud
 ### Connect with me:
 
 [<img align="left" alt="Alaref | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
