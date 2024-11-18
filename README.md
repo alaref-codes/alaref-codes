@@ -1,6 +1,6 @@
 ### Hello, my name is Alaref Abushaala ( العارِف أبو شَعالة )
 
-## I'm a Web Developer, Software Engineering Student from Libya.
+## Software Engineer from Libya.
 
 ### Connect with me:
 
